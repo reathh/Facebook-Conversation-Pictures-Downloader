@@ -1,0 +1,12 @@
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\bin\Debug\Facebook-Conversation-Pictures-Downloader.exe.config
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\bin\Debug\Facebook-Conversation-Pictures-Downloader.exe
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\bin\Debug\Facebook-Conversation-Pictures-Downloader.pdb
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook-Conversation-Pictures-Downloader.csprojResolveAssemblyReference.cache
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook_Conversation_Pictures_Downloader.Form1.resources
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook_Conversation_Pictures_Downloader.Properties.Resources.resources
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook-Conversation-Pictures-Downloader.csproj.GenerateResource.Cache
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook-Conversation-Pictures-Downloader.exe
+c:\users\reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook-Conversation-Pictures-Downloader.pdb
+C:\Users\Reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\bin\Debug\FiddlerCore.dll
+C:\Users\Reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\bin\Debug\FiddlerCore.xml
+C:\Users\Reath\documents\visual studio 2015\Projects\Facebook-Conversation-Pictures-Downloader\Facebook-Conversation-Pictures-Downloader\obj\Debug\Facebook_Conversation_Pictures_Downloader.Form2.resources
